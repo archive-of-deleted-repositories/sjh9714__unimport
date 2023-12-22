@@ -1,2 +1,2 @@
 const a = customDefault(customNamed())
-const a = customDefaultAlias()
+const b = customDefaultAlias()
